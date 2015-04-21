@@ -5,4 +5,4 @@ Une demo git qui se passe bien et tout!
 
 Et maintemant on modifie depuis GitHub
 
-Et aussi depuis Vim en machine locale
+Et aussi depuis Vim en machine locale et c'est cool
