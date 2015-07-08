@@ -1,0 +1,24 @@
+body
+{background-color:rgb(255,255,255);
+ color:maroon;
+ background-attachment:fixed;
+}
+#entete
+{  
+   text-align: left;   
+   color:maroon;
+}
+
+.element_corps   /* Tous les titres de menus */
+{    
+   color: maroon;
+   text-align: left;
+   font-size: 20px;
+}
+p.element_corps   /* Tous les titres de menus */
+{    
+   color: maroon;
+   text-align: left;
+   width: 10px;
+   font-size: 40px;
+   }
